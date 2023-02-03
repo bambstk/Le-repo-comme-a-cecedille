@@ -8,8 +8,8 @@ git add data.tkt
 git commit -m lemessage data.txt
 
 (y a eu quelques pbm entre ces 2 etapes mdr, mais en gros j'ai du :
-*git pull origin main --allow-unrelated-histories
-*git push --set-upstream origin main
+-git pull origin main --allow-unrelated-histories
+-git push --set-upstream origin main
 )
 
 git push data.txt
